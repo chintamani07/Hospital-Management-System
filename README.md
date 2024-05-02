@@ -1,8 +1,8 @@
 # About Project
 
-Hello Everyone, This is Java and Full Stack Python Training Mini Project on Hospital Management System. This project is very usefull in real-life because it can use for store, update and delete Hospital Patients data. It can also search Stored data and display the perticular Patient Details.
+Hello Everyone, This is Java and Full Stack Python Training Mini Project on Hospital Management System. This project is very usefull in real-life because it can use for store, update and delete Hospital Patients data. It can also search Stored data and display the particular Patient Details.
 
-Contributed by:- Team Daemon
+Contributed by:- Team Daemon (Daemon-Java : daemon thread || background thread || lower priority || garbage collection || handling background activities.
 
 # Built with
 
